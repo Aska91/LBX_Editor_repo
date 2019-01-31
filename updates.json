@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "2.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "download-url": "https://github.com/Aska91/LBX_Editor_repo/blob/master/LBXEditor_VersionControl.xml",
       "changelog": "This is an example changelog for Windows. Go on..."
     },
     "osx": {
